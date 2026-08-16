@@ -15,7 +15,7 @@ void solve()
         cin >> it;
     }   
  
-    int hundred = 100;
+    int hundred = 21;
     while(hundred--)
     {
         for (int i = 0; i < n; i++)
